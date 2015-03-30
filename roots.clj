@@ -6,6 +6,9 @@
 ;; roots.clj is the fourth part of assignment 5. It is a
 ;; program written in Clojure, and its purpose is to help
 ;; us learn basic syntax and functionality of the language.
+;;
+;; TO DO:
+;;  ~ merge odd-factors & even-factors into one function (factors)
 
 
 ;;; Part 4 (bonus section)
